@@ -1,5 +1,4 @@
 import requests
-import pytest
 
 API_URL = 'https://reqres.in/api/users'
 
